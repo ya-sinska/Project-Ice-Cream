@@ -1,0 +1,208 @@
+.reviews {
+  padding-bottom: 86px;
+}
+
+.reviews__comment {
+  position: relative;
+  width: 280px;
+  height: 100%;
+
+  overflow: hidden;
+  padding-left: 0;
+  padding-right: 0;
+
+  @media screen and (min-width: 768px) {
+    width: 620px;
+  }
+  @media screen and (min-width: 1200px) {
+    width: 926px;
+  }
+}
+
+.container-comment {
+  position: relative;
+  background-color: var(--customer-bg-color);
+  width: 280px;
+  height: auto;
+
+  padding: 48px 50px 15px 50px;
+  overflow: hidden;
+  &::before {
+    content: '';
+    background-image: url(../images/q.png);
+    background-size: cover;
+
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    z-index: 0;
+
+    width: 54px;
+    height: 40px;
+
+    @media screen and (min-width: 768px) {
+      top: 35px;
+      left: 40px;
+    }
+
+    // @media screen and (min-width: 1200px) {
+    //   left: 28%;
+    // }
+  }
+}
+
+.comment {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+
+  position: relative;
+  z-index: 1;
+  pointer-events: none;
+
+  font-size: 12px;
+  line-height: 2.45;
+  text-align: center;
+}
+
+.gradient {
+  position: absolute;
+  top: 76px;
+  left: 50px;
+  width: 65%;
+  height: 100%;
+  background-image: repeating-linear-gradient(#bbb 1px, transparent 3px, transparent 30px);
+
+  @media screen and (min-width: 768px) {
+    top: 75px;
+    left: 55px;
+    width: 80%;
+    height: 100%;
+    background-image: repeating-linear-gradient(#bbb 1px, transparent 3px, transparent 30px);
+  }
+
+  @media screen and (min-width: 1200px) {
+    left: 50px;
+    width: 90%;
+    background-image: repeating-linear-gradient(#bbb 1px, transparent 3px, transparent 30px);
+  }
+}
+
+.reviews__img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+  margin-bottom: 30px;
+}
+
+.reviews__navigator {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  display: flex;
+  transform: translateX(-50%);
+}
+
+.radio {
+  position: absolute;
+  visibility: hidden;
+}
+
+.bar {
+  width: 12px;
+  height: 12px;
+  cursor: pointer;
+  background-color: var(--green-bg-color);
+  padding: 6px;
+  margin: 6px;
+  border-radius: 50%;
+
+  opacity: 0.8;
+
+  &:hover,
+  &:focus {
+    background-color: var(--svg-third-fill);
+  }
+}
+
+.reviews__slides {
+  width: 1000%;
+  height: 100%;
+  display: flex;
+}
+
+.reviews__slide {
+  position: relative;
+  width: 10%;
+  transition: all 500ms var(--timing-function);
+}
+
+.slide-p {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.86;
+
+  &::before {
+    content: '';
+    background-image: url(../images/mobile/Display-x1/elipse.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+
+    width: 50px;
+    height: 10px;
+  }
+}
+
+.container-comment {
+  width: 100%;
+
+  margin-bottom: 30px;
+}
+
+#r1:checked ~ .s1 {
+  margin-left: 0;
+}
+#r2:checked ~ .s1 {
+  margin-left: -10%;
+}
+#r3:checked ~ .s1 {
+  margin-left: -20%;
+}
+#r4:checked ~ .s1 {
+  margin-left: -30%;
+}
+#r5:checked ~ .s1 {
+  margin-left: -40%;
+}
+#r6:checked ~ .s1 {
+  margin-left: -50%;
+}
+#r7:checked ~ .s1 {
+  margin-left: -60%;
+}
+#r8:checked ~ .s1 {
+  margin-left: -70%;
+}
+#r9:checked ~ .s1 {
+  margin-left: -80%;
+}
+#r10:checked ~ .s1 {
+  margin-left: -90%;
+}

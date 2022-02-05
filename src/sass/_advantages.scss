@@ -1,0 +1,96 @@
+.advantages{
+    background-color: var(--main-bg-color);
+    padding-bottom: 97px;
+}
+
+.advantages__bold-text{
+    font-family: 'Titan One';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 1.13%;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color:var( --btn-header-secondary-bg-color);
+
+    margin-top: 45px;
+    display: inline-block;
+
+    @media screen and (min-width: 768px) {
+        font-size: 48px;
+    }
+    @media screen and (min-width: 1200px) {
+        font-size: 58px;
+    }
+}
+
+.advantages__li { 
+    &:first-child:before {
+      content: '';
+      background-image: url(../images/advantages/cup.png);
+      width: 50px;
+      height: 50px;
+      background-repeat: no-repeat;
+      display: block;
+
+    }
+    &:nth-child(2):before {
+      content: '';
+      background-image: url(../images/advantages/apples.png);
+      width: 50px;
+      height: 50px;
+      background-repeat: no-repeat;
+      display: block;
+    }
+    &:nth-child(3):before {
+      content: '';
+      background-image: url(../images/advantages/heart.png);
+      width: 50px;
+      height: 50px;
+      display: block;
+      background-repeat: no-repeat;
+
+  
+    }
+}
+
+.advantages__text{
+    font-family:'DM Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 170%;
+    margin-top: 8px;
+
+    @media screen and (min-width: 768px) {
+        font-size: 14px;
+        margin-top: 20px;
+    }
+    @media screen and (min-width: 1200px) {
+        font-size: 16px;
+        margin-top: 22px;
+    }
+}
+
+.advantages__li+.advantages__li{
+    @media screen and (max-width: 767px) {
+        margin-top:38px ;
+    }
+}
+
+.advantages__li:not(:last-child){
+    background-repeat: no-repeat;
+    @media screen and (min-width: 768px) {
+        margin-right: 73px;
+    }
+    @media screen and (min-width: 1200px) {
+        margin-right: 90px;
+    }
+}
+
+.advantages__list{
+    @media screen and (min-width: 768px) {
+        display: flex;
+    }
+  
+} 

@@ -1,0 +1,539 @@
+[33mcommit 6e7679fce1db78c6155e83a6a644bb097a5a958a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sun Oct 10 15:27:47 2021 +0300
+
+    minus codreviuers
+
+[33mcommit cb303ce1e88c296f3a864dc7a28161ed51d6fa83[m
+Merge: d4658c0 9c9dfb3
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sun Oct 10 15:12:06 2021 +0300
+
+    Merge pull request #40 from sla6ak/feature-base2
+    
+    images for contacts
+
+[33mcommit d4658c0f62d499d758f0b9a01755ac5efff96e1f[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sun Oct 10 15:10:51 2021 +0300
+
+    reviuers3
+
+[33mcommit 6262cec25549c5d7c8259090a4753aeae48a9b7d[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sun Oct 10 15:04:20 2021 +0300
+
+    reviuers
+
+[33mcommit f792bf38c9ec863560da734836113776a5374693[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sun Oct 10 15:02:31 2021 +0300
+
+    11
+
+[33mcommit 9c9dfb381ed3f194cb5370f30906b7917f3cd3a4[m
+Merge: 01e7b6c ed0c685
+Author: KokhanVika <kohvika198@gmail.com>
+Date:   Sun Oct 10 14:50:03 2021 +0300
+
+    Merge branch 'main' into feature-base2
+
+[33mcommit ed0c685cbc333c03565770307a0087558b62c6cc[m
+Merge: 18299f4 ae0b10e
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sun Oct 10 14:44:06 2021 +0300
+
+    Merge pull request #41 from sla6ak/contacts
+    
+    Contacts
+
+[33mcommit ae0b10e7bb07306c24146020d53809b38d4984f1[m
+Author: Katty0807 <86466957+Katty0807@users.noreply.github.com>
+Date:   Sun Oct 10 14:42:33 2021 +0300
+
+    btn
+
+[33mcommit 42390390b71fbf9842c1ff35a38b95a3b6ff4505[m
+Merge: 1159c46 0f3ece5
+Author: Katty0807 <86466957+Katty0807@users.noreply.github.com>
+Date:   Sun Oct 10 14:40:43 2021 +0300
+
+    Merge branch 'main' into contacts
+
+[33mcommit 18299f4c8e604c2a0839bf01e9f395fb8f8bf169[m
+Merge: 49077a4 6e23b4d
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sun Oct 10 14:24:17 2021 +0300
+
+    Merge pull request #42 from sla6ak/feature-mobile-menu-button-and-script
+    
+    mob menu button, variables. skript draft
+
+[33mcommit 49077a4faae8689782788444fa1406a8293bc985[m
+Merge: 1eec27c 1dd8641
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sun Oct 10 14:22:58 2021 +0300
+
+    Merge pull request #35 from sla6ak/about-branch
+    
+    About branch
+
+[33mcommit 1eec27c5bb358ea393dee0e1655d37f5f0fc4b27[m
+Merge: 0a22af9 7f6eeba
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sun Oct 10 14:15:23 2021 +0300
+
+    Merge pull request #38 from sla6ak/feature-products-after-teamlid-error-corection
+    
+    products html scss
+
+[33mcommit 0a22af97946ecfd3b6e181af397ffff5c5a63efe[m
+Merge: 0f3ece5 e50e2e8
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sun Oct 10 14:14:09 2021 +0300
+
+    Merge pull request #39 from sla6ak/features/header
+    
+    Хедер и герой для моб
+
+[33mcommit 1dd8641f9a5dc9c98c6d1de337390870e5bf7929[m
+Author: SvetlanaLytovchenko <sveta141084@gmail.com>
+Date:   Sun Oct 10 14:02:08 2021 +0300
+
+    доделать модалку
+
+[33mcommit 6e23b4da81b1627a89927b0d45a26c2bfc829986[m
+Author: Nataliia Tertyshna <tertnf@gmail.com>
+Date:   Sun Oct 10 13:24:44 2021 +0300
+
+    mob menu button, variables. skript draft
+    
+    mob menu button, variables. skript draft. нужно подключить скрипт в индекс
+
+[33mcommit 01e7b6cfe2e8e50280a663f0feb5a4cdaf570272[m
+Author: KokhanVika <kohvika198@gmail.com>
+Date:   Sun Oct 10 13:20:59 2021 +0300
+
+    basis.scss
+    
+    переменные
+
+[33mcommit 369e88a8cbfb8c41868bfe8ecb460476a6da28a0[m
+Author: KokhanVika <kohvika198@gmail.com>
+Date:   Sun Oct 10 12:16:47 2021 +0300
+
+    svg бургер
+
+[33mcommit b267cd2863da4d68bbbb11547acd0b64238cd8e8[m
+Author: KokhanVika <kohvika198@gmail.com>
+Date:   Sun Oct 10 11:06:11 2021 +0300
+
+    + svg
+
+[33mcommit 1159c4611f216555768666e5bfc987b6f01e50af[m
+Author: Katty0807 <86466957+Katty0807@users.noreply.github.com>
+Date:   Sun Oct 10 10:50:32 2021 +0300
+
+    record-error
+
+[33mcommit c40a990afdae1a053de79073276ec1a03fd4a63b[m
+Author: KokhanVika <kohvika198@gmail.com>
+Date:   Sun Oct 10 09:57:56 2021 +0300
+
+    images for contacts
+
+[33mcommit 0f3ece5b5b8205cc0b4a0a36168304ed8f560799[m
+Merge: 2546a23 a7f11f2
+Author: KokhanVika <87494359+KokhanVika@users.noreply.github.com>
+Date:   Sun Oct 10 09:13:17 2021 +0300
+
+    Merge pull request #30 from sla6ak/icon-site
+    
+    добавляет иконку и название сайта
+
+[33mcommit e50e2e8b4e2bd68185b2d3971c0a2f946ae25b23[m
+Author: Romanna Yasinska <r.bren.1991@gmail.com>
+Date:   Sun Oct 10 03:02:09 2021 +0300
+
+    Змінює позиціонування хедера і картинки в герої
+
+[33mcommit c4cfa82b3c82851229eefa5778743915f07c8c43[m
+Author: Romanna Yasinska <r.bren.1991@gmail.com>
+Date:   Sun Oct 10 01:54:25 2021 +0300
+
+    Хедер и герой для моб
+
+[33mcommit 7f6eebaa3b1dbbc27bb5e70df185b5fbf874bdd6[m
+Author: Nataliia Tertyshna <tertnf@gmail.com>
+Date:   Sun Oct 10 00:12:13 2021 +0300
+
+    products html scss
+    
+    products html scss
+
+[33mcommit 8d797dbb26d604b51257f194b7db32ecc2b035a2[m
+Author: SvetlanaLytovchenko <sveta141084@gmail.com>
+Date:   Sat Oct 9 22:47:54 2021 +0300
+
+    about1
+
+[33mcommit 2546a23636a2c5a047c26d29ee37f5d6964502e9[m
+Merge: 459bad5 858f2b5
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 21:56:16 2021 +0300
+
+    Merge pull request #31 from sla6ak/features-tab-reviews
+    
+    Features tab reviews
+
+[33mcommit 858f2b56c3812211d47df127ee1a7341a1ebbb17[m
+Merge: 3310476 459bad5
+Author: Dmytro Vasylchuk <dmvs.9898@gmail.com>
+Date:   Sat Oct 9 21:50:56 2021 +0300
+
+    Merge branch 'main' into features-tab-reviews
+
+[33mcommit 459bad5c1d8d53a990197407a2e8d9ea76e38b81[m
+Merge: 7d2f44c 6ac794c
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 21:50:01 2021 +0300
+
+    Merge pull request #34 from sla6ak/origin/Advantages
+    
+    27
+
+[33mcommit 6ac794c5bb29d5b8c81227a36706e10cc21d4fc5[m[33m ([m[1;32morigin/Advantages[m[33m)[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 21:48:37 2021 +0300
+
+    27
+
+[33mcommit 7d2f44c41763f1ec4cd0c4aa78c5b76d868c2bd4[m
+Merge: f82623c ace3a10
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 21:48:21 2021 +0300
+
+    Merge pull request #32 from sla6ak/origin/Advantages
+    
+    Origin/advantages
+
+[33mcommit 33104761cbddeac0082bc27051dea222d9918ec7[m
+Author: Dmytro Vasylchuk <dmvs.9898@gmail.com>
+Date:   Sat Oct 9 21:48:16 2021 +0300
+
+    up
+
+[33mcommit ace3a10d4b0d7e38bd0308b087a2fe0b51c9b5c1[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 21:47:31 2021 +0300
+
+    26
+
+[33mcommit 6226aeb39eb289dd2d6177316c7d2c3f46fa0a3e[m[33m ([m[1;31morigin/origin/Advantages[m[33m)[m
+Merge: 18ae572 58c0d20
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 21:46:16 2021 +0300
+
+    Merge branch 'origin/Advantages' of https://github.com/sla6ak/IceCream-Project-Team1 into origin/Advantages
+
+[33mcommit 18ae572afc81a13e29b9e0b50f5bf0ce8d912b33[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 21:46:06 2021 +0300
+
+    popitka 25
+
+[33mcommit d0b63aac405024e4950fd5eff84bb198ac3744cf[m
+Author: Dmytro Vasylchuk <dmvs.9898@gmail.com>
+Date:   Sat Oct 9 21:45:29 2021 +0300
+
+    update
+
+[33mcommit 58c0d20ee1079d44d80ce7d3da63f5543d7a00f9[m
+Author: Leonid578 <Leonid.Ivanov187@gmail.com>
+Date:   Sat Oct 9 21:44:21 2021 +0300
+
+    падинг пнг
+
+[33mcommit 82605c73fdf01aef9d6cf95fd699b64b01930baa[m
+Author: Dmytro Vasylchuk <dmvs.9898@gmail.com>
+Date:   Sat Oct 9 21:42:38 2021 +0300
+
+    Update _basis.scss
+
+[33mcommit cfda72101c80db98a4bddb580a4aea838e411928[m
+Merge: c6f2a67 a1b3286
+Author: Leonid578 <Leonid.Ivanov187@gmail.com>
+Date:   Sat Oct 9 21:41:28 2021 +0300
+
+    Merge branch 'origin/Advantages' of https://github.com/sla6ak/IceCream-Project-Team1 into origin/Advantages
+
+[33mcommit a1b3286925b94226df5677c68669f710c244028d[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 21:40:46 2021 +0300
+
+    comit modal
+
+[33mcommit 387ad24b1fa9ad89729cd74208e04af2016b32e6[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 21:34:23 2021 +0300
+
+    modal-footer
+
+[33mcommit c6f2a6794e3eab3bd13ded8eb1e902b31f799e33[m
+Author: Leonid578 <Leonid.Ivanov187@gmail.com>
+Date:   Sat Oct 9 21:30:34 2021 +0300
+
+    3
+
+[33mcommit 50635480bcf7b91ee1fa631395402d9f9d505ea5[m
+Author: Leonid578 <Leonid.Ivanov187@gmail.com>
+Date:   Sat Oct 9 21:23:30 2021 +0300
+
+    2
+
+[33mcommit 0dfd81c97940d1f265c8d302787911e597d76c6f[m
+Author: Leonid578 <Leonid.Ivanov187@gmail.com>
+Date:   Sat Oct 9 21:19:01 2021 +0300
+
+    Модалка
+
+[33mcommit fc1845703a8e48d82a8673802a11eb581b3678c1[m
+Author: Katty0807 <86466957+Katty0807@users.noreply.github.com>
+Date:   Sat Oct 9 21:16:49 2021 +0300
+
+    gradient-link
+
+[33mcommit f82623cb3719b6fb5f9f6113f8729da350f01bd6[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 21:15:32 2021 +0300
+
+    impg
+
+[33mcommit 8087ec344af2c12e948909382d9b752da7fd5627[m
+Author: Dmytro Vasylchuk <dmvs.9898@gmail.com>
+Date:   Sat Oct 9 21:05:16 2021 +0300
+
+    Адаптивная вёрстка под таблетку и десктоп (только первый коментарий)
+
+[33mcommit 6e0f616ddfe2d4dec778f51477b1125e6c0dca9e[m
+Author: SvetlanaLytovchenko <sveta141084@gmail.com>
+Date:   Sat Oct 9 20:35:15 2021 +0300
+
+    1
+
+[33mcommit a5b38cf02a7c4592b150fdb39d44546bc2845be8[m
+Author: Leonid578 <Leonid.Ivanov187@gmail.com>
+Date:   Sat Oct 9 20:15:26 2021 +0300
+
+    modal
+
+[33mcommit de91d920016e4bf164452b9b7dd585f3c5e9f583[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 19:56:10 2021 +0300
+
+    prodacts
+
+[33mcommit c58586b2917805195821a0ffe8eb891a7a96bb2e[m
+Author: Dmytro Vasylchuk <dmvs.9898@gmail.com>
+Date:   Sat Oct 9 19:55:11 2021 +0300
+
+    Update _basis.scss
+
+[33mcommit a7f11f2642670f7c26de37924a20f5ba90fca512[m
+Author: WalentinaBorodaj <valentinaborodaj4@gmail.com>
+Date:   Sat Oct 9 19:40:55 2021 +0300
+
+    добавляет иконку и название сайта
+
+[33mcommit 0026c80f8ca97912e7ac1f8ff80eff278fadc35f[m
+Merge: f77051e f093f0d
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 19:37:12 2021 +0300
+
+    Merge branch 'main' of https://github.com/sla6ak/IceCream-Project-Team1
+
+[33mcommit 684eb5be0525c4700aa50ef9ed42ae0ec77ef5fc[m
+Author: Leonid578 <Leonid.Ivanov187@gmail.com>
+Date:   Sat Oct 9 19:36:35 2021 +0300
+
+    Изменил картинки
+
+[33mcommit f093f0db9c0c7877f8407131a01ca1409f866704[m
+Merge: 2307b0e 45938e3
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 19:14:48 2021 +0300
+
+    Merge pull request #29 from sla6ak/feature-product(from-new-main)
+    
+    products scss draft
+
+[33mcommit 2307b0e8dbb35d299c5a46a97af8147707f98a6f[m
+Merge: 334649f 529d121
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 19:11:56 2021 +0300
+
+    Merge pull request #28 from sla6ak/About-branch
+    
+    About branch
+
+[33mcommit 45938e307955e4de4550f29de5a5bbf949481583[m[33m ([m[1;32mfeature-product(from-new-main)[m[33m)[m
+Author: Nataliia Tertyshna <tertnf@gmail.com>
+Date:   Sat Oct 9 19:10:45 2021 +0300
+
+    products scss draft
+    
+    products scss draft
+
+[33mcommit 529d12120b9d896e4cb316ba8e1347173f5d222b[m
+Author: SvetlanaLytovchenko <sveta141084@gmail.com>
+Date:   Sat Oct 9 18:57:58 2021 +0300
+
+    2
+
+[33mcommit b06547965a1a8d6843d2f3003e4c47d07321eb32[m
+Author: Dmytro Vasylchuk <dmvs.9898@gmail.com>
+Date:   Sat Oct 9 18:55:54 2021 +0300
+
+    Update reviews.html
+
+[33mcommit 334649fcdde7c766e2a8f82f7ce7b1eb4cdd8d12[m
+Merge: 95ccdcf 7541056
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 18:50:59 2021 +0300
+
+    Merge pull request #22 from sla6ak/features-reviews
+    
+    мобильная вёрстка секции reviews
+
+[33mcommit f77051e706a9a4c802c0c02a998343cfcd08fd1b[m
+Merge: a4564f9 95ccdcf
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 18:47:19 2021 +0300
+
+    Merge branch 'main' of https://github.com/sla6ak/IceCream-Project-Team1
+
+[33mcommit a4564f93deb970ec51ecb1bf058c23c3b5e2eb50[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 18:46:59 2021 +0300
+
+    conteiner 75
+
+[33mcommit 95ccdcfa1e745a63c3f64321399b9c5ad6248555[m
+Merge: 660fc6c 972d7c6
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 18:28:34 2021 +0300
+
+    Merge pull request #26 from sla6ak/origin/Advantages2
+    
+    Origin/advantages2
+
+[33mcommit 972d7c61e2b2e3a18a8de1dbb4eec3ec008a2d6b[m[33m ([m[1;32morigin/Advantages2[m[33m)[m
+Author: Leonid578 <Leonid.Ivanov187@gmail.com>
+Date:   Sat Oct 9 18:26:14 2021 +0300
+
+    3
+
+[33mcommit d0d790da90f5fe83ea01334693c809735b7e0a5c[m
+Author: Leonid578 <Leonid.Ivanov187@gmail.com>
+Date:   Sat Oct 9 18:25:10 2021 +0300
+
+    2
+
+[33mcommit 660fc6cfb33745fd5caeaecde7ddf39446d9636a[m
+Merge: 8420976 dfa7f06
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 17:39:59 2021 +0300
+
+    Merge branch 'main' of https://github.com/sla6ak/IceCream-Project-Team1
+
+[33mcommit 842097628397ef678feaf46e89fb49a836a48660[m
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 17:39:56 2021 +0300
+
+    svg footer
+
+[33mcommit 79358f3a4df1f132ead911fac9b23ec87daa7c42[m
+Author: WalentinaBorodaj <valentinaborodaj4@gmail.com>
+Date:   Sat Oct 9 17:38:44 2021 +0300
+
+    Update index.html
+
+[33mcommit 47b935b63c20ff1ecec84e6138078d0f89e5dd69[m
+Merge: 752dd1f d387c23
+Author: Leonid578 <Leonid.Ivanov187@gmail.com>
+Date:   Sat Oct 9 17:38:36 2021 +0300
+
+    Merge branch 'origin/Advantages2' of https://github.com/sla6ak/IceCream-Project-Team1 into origin/Advantages2
+
+[33mcommit 752dd1f14503c54e799b91a3e6d58ae01d21b7fe[m
+Author: Leonid578 <Leonid.Ivanov187@gmail.com>
+Date:   Sat Oct 9 17:38:33 2021 +0300
+
+    1
+
+[33mcommit f89c68897f8b01382392b281c96e845067b9f733[m
+Author: WalentinaBorodaj <valentinaborodaj4@gmail.com>
+Date:   Sat Oct 9 17:20:24 2021 +0300
+
+    Update index.html
+
+[33mcommit dfa7f06e906512afc55135134d1541d50cffc92d[m
+Merge: 76ad89b 458f9a4
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 17:13:08 2021 +0300
+
+    Merge pull request #25 from sla6ak/contacts
+    
+    new-branch-section
+
+[33mcommit 458f9a437e00d90d7192eaa005b276860f010713[m
+Author: Katty0807 <86466957+Katty0807@users.noreply.github.com>
+Date:   Sat Oct 9 17:11:21 2021 +0300
+
+    js-btn
+
+[33mcommit 7541056f3bd19d4b0e049d1214c3e3b1220a0c60[m
+Author: Dmytro Vasylchuk <dmvs.9898@gmail.com>
+Date:   Sat Oct 9 17:11:11 2021 +0300
+
+    Update _reviews.scss
+
+[33mcommit c9e5c604f68b991dc30d971985a7b2fd1f84177d[m
+Author: Katty0807 <86466957+Katty0807@users.noreply.github.com>
+Date:   Sat Oct 9 16:59:27 2021 +0300
+
+    new-branch-section
+
+[33mcommit 76ad89b994d63ec025a1931410c05c62578a061a[m
+Merge: 9e68abf 09070cb
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   Sat Oct 9 16:40:39 2021 +0300
+
+    Merge pull request #24 from sla6ak/feature/mobile-menu
+    
+    mobile menu + adaptiv
+
+[33mcommit 525e127227da8a5c8c55115841387859aa943472[m[33m ([m[1;32mAbout-branch[m[33m)[m
+Author: SvetlanaLytovchenko <sveta141084@gmail.com>
+Date:   Sat Oct 9 16:33:46 2021 +0300
+
+    1
+
+[33mcommit a1236f23e2791ccae90ea31046622c7d46319cb2[m
+Author: Dmytro Vasylchuk <dmvs.9898@gmail.com>
+Date:   Sat Oct 9 16:30:59 2021 +0300
+
+    удаление папки Previews из image
+
+[33mcommit 09070cb3cbb0a090a18691eba2b8f30d5f1a63e3[m
+Author: Nataliia Tertyshna <tertnf@gmail.com>
+Date:   Sat Oct 9 16:25:39 2021 +0300
+
+    mobile menu + adaptiv
+    
+    mobile menu + adaptiv. осталось переменные и заменить svg
+
+[33mcommit 9e68abf6e5e4e0c781bb7017b0696df45e4369ea[m
+Merge: c36e9e6 cecc4a8
+Author: Viktor <86052868+sla6ak@users.noreply.github.com>
+Date:   S

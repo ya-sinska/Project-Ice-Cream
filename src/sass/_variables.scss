@@ -1,0 +1,65 @@
+:root {
+
+    --main-title-color:#D41443;
+    --pre-title-color: #FFA5BA;
+    --secondary--title-color: #FFFFFF;
+
+    --main-text-color:  #000000;
+    --secondary-text-color: #FFFFFF;
+    --third-text-color: #907E82;
+
+    --accent-color:#D41443;
+
+    --time-color: #FFA5BA;
+    
+    --bg-color: #E5E5E5;
+    --main-bg-color: #FFF5F6;
+    --secondary-bg-color: #FFB8CA;
+    --third-bg-color: #FFFFFF;
+    --mobile-menu-bg-color: #E17992;
+    --customer-bg-color: #FAFAFA;
+
+    --coffee-bg-color:  #F0D1A5;
+    --green-bg-color: #C2E297;
+
+    --icons-bg-color: #FEA5BB;
+    --icons-bg-hover-color: #ECEBEB;
+     
+    --btn-bg-color: #FFFFFF;
+    --btn-secondary-bg-color: #D41342;
+    --btn-hover-bg-color: #ECEBEB;
+    --btn-header-secondary-bg-color: #D41443;
+
+    --svg-main-fill: #FFFFFF;
+    --svg-secondary-fill: #D41443;
+    --svg-third-fill: #D31342;
+
+    --svg-bg-color: #FEA5BB;
+    --svg-hover-bg-color: #D41443;
+    --border-footer: #E1E1E1;
+
+    --border-menu: #E18298;
+
+    --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  
+     /** main-modal ******************************/
+        --close-color: red;
+        --accent-color-mod: #abc589;
+        --accent-color-mod1: #437700;
+        --accent-color-mod2: #73ca00;
+        --backdrop-background: rgba(121, 60, 60, 0.2);
+        --background-label:  rgba(47, 48, 58, 0.8);
+        --border-button: rgba(73, 19, 3, 0.8);
+        --border-button1: rgba(104, 25, 1, 0.8);
+        --background-main-modal: #FFFFFF;
+        --box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        --box-shadow1: 0px 4px 4px rgba(0, 0, 0.1, 0.15);
+        --mn-modal-border-btn-close: 1px solid rgba(189, 0, 0, 0.2);
+        --mn-modal-label-text: rgba(145, 0, 0, 0.698);
+        --mn-modal-modal-bordr-inp:  rgba(145, 0, 0, 0.698);
+        --mn-modal-border-input: 1px solid rgba(173, 0, 0, 0.493);
+        --mn-modal-backgraund-button: radial-gradient(farthest-side at top left, #fff, rgb(255, 184, 184));
+        --mn-modal-backgraund-button3: radial-gradient(farthest-side at top left, #fff, rgb(255, 226, 226));
+        --mn-modal-backgraund-button2: radial-gradient(farthest-side at top left, #fff, rgb(157, 216, 64));
+        --mn-modal-box-shadow: 5px 10px 20px rgba(0,0,0,0.3), -5px -10px 20px rgba(255,255,255,0.5);
+ }

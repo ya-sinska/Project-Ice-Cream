@@ -1,0 +1,286 @@
+.section-contacts {
+  background: linear-gradient(to top, var(--main-bg-color) 92%, var(--secondary--title-color) 0%);
+  @media screen and (min-width: 768px) {
+    background: linear-gradient(to top, var(--main-bg-color) 86%, var(--secondary--title-color) 0%);
+  }
+  @media screen and (min-width: 1200px) {
+    background-image: url(../images/desktop/display-x1/desktop-contacts-x1.png), linear-gradient(to top, var(--main-bg-color) 86%, var(--secondary--title-color) 0%);
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+  }
+  @media screen and (min-device-pixel-ratio: 2),
+    screen and (min-resolution: 192dpi),
+    screen and (min-resolution: 2dppx) {
+    background-image: url(../images/desktop/display-x2/desktop-contacts-x2.png), linear-gradient(to top, var(--main-bg-color) 86%, var(--secondary--title-color) 0%);
+  }
+}
+
+.contacts-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 54px;
+}
+
+@media screen and (min-width: 768px) {
+  .contacts-list {
+    flex-direction: row;
+    margin-bottom: 81px;
+  }
+}
+.contacts-list_card {
+  background: var(--secondary--title-color);
+  box-shadow: 0px 8px 30px rgba(212, 20, 67, 0.1);
+  border-radius: 24px;
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  font-size: 12px;
+}
+.contacts-list_card:focus,
+.contacts-list_card:hover {
+  transform: scale(1.1);
+}
+@media screen and (min-width: 320px) {
+  .contacts-list_card:not(:last-child) {
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 319px) {
+  .contacts-list_card {
+    padding: 10px 20px;
+  }
+}
+@media screen and (min-width: 320px) {
+  .contacts-list_card {
+    width: 220px;
+    padding: 43px 20px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .contacts-list_card:not(:last-child) {
+    margin-bottom: 0;
+    margin-right: 20px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .contacts-list_card {
+    width: 330px;
+    padding: 51px 43px 62px 43px;
+  }
+}
+.contacts-list_point {
+  display: inline-block;
+  padding: 0 25px;
+  margin-bottom: 25px;
+  color: var(--secondary--title-color);
+  background-color: var(--coffee-bg-color);
+  border-radius: 4px;
+  font-size: 12px;
+  line-height: 1.86;
+  text-transform: uppercase;
+}
+@media screen and (min-width: 768px) {
+  .contacts-list_point {
+    margin-bottom: 30px;
+    font-size: 16px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .contacts-list_point {
+    margin-bottom: 32px;
+  }
+}
+.point {
+  background-color: var(--green-bg-color);
+}
+.contacts-list_title {
+  font-size: 12px;
+  line-height: 1.86;
+  color: var(--main-text-color);
+  margin-bottom: 10px;
+}
+@media screen and (min-width: 768px) and (max-width: 1999px) {
+  .contacts-list_title {
+    margin-bottom: 14px;
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .contacts-list_title {
+    font-size: 16px;
+  }
+}
+
+.contacts-list_text {
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--third-text-color);
+  padding-bottom: 25px;
+  border-bottom: 1px solid #e1e1e1;
+}
+@media screen and (min-width: 768px) {
+  .contacts-list_text {
+    font-size: 14px;
+    line-height: 1.66;
+    padding-bottom: 32px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .contacts-list_text {
+    font-size: 16px;
+    line-height: 1.83;
+  }
+}
+.contacts-list_hours {
+  display: block;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  border-bottom: 1px solid #e1e1e1;
+}
+@media screen and (min-width: 768px) {
+  .contacts-list_hours {
+    padding-bottom: 32px;
+    padding-top: 32px;
+  }
+}
+.contacts-list_block:not(:last-child) {
+  margin-bottom: 10px;
+}
+@media screen and (min-width: 768px) {
+  .contacts-list_block:not(:last-child) {
+    margin-bottom: 15px;
+  }
+}
+.contacts-list_day {
+  color: var(--main-text-color);
+  font-size: 12px;
+  line-height: 1.86;
+}
+@media screen and (min-width: 768px) {
+  .contacts-list_day {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .contacts-list_day {
+    font-size: 14px;
+  }
+}
+.contacts-list_time {
+  color: var(--time-color);
+  font-size: 12px;
+  line-height: 1.86;
+}
+@media screen and (min-width: 1200px) {
+  .contacts-list_time {
+    font-size: 16px;
+  }
+}
+.contacts-list_address {
+  display: block;
+  line-height: 1.5;
+  padding-top: 25px;
+}
+@media screen and (min-width: 768px) {
+  .contacts-list_address {
+    padding-top: 32px;
+  }
+}
+.contacts-list_item {
+  font-size: 12px;
+  line-height: 1.5;
+}
+@media screen and (min-width: 768px) {
+  .contacts-list_item {
+    font-size: 14px;
+    line-height: 1.86;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .contacts-list_item {
+    font-size: 16px;
+  }
+}
+.contacts-list_link {
+  color: var(--third-text-color);
+  text-decoration: none;
+  display: block;
+  cursor: pointer;
+}
+.contacts-list_link:hover,
+.contacts-list_link:focus {
+  color: var(--main-title-color);
+}
+.contacts-btn {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 113px;
+}
+@media screen and (min-width: 768px) {
+  .contacts-btn {
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 165px;
+  }
+}
+
+.locations-btn {
+  margin: 0 auto 10px;
+  color: var(--secondary--title-color);
+  background-color: var(--btn-secondary-bg-color);
+  border-color: transparent;
+  height: 44px;
+  border-radius: 22px;
+  font-size: 16px;
+  align-items: center;
+  width: 161px;
+}
+.locations-btn:focus,
+.locations-btn:hover {
+  background: #c7133e;
+}
+@media screen and (min-width: 768px) {
+  .locations-btn {
+    margin: 0 15px 0 0;
+    width: 191px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .locations-btn {
+    width: 198px;
+    border: none;
+  }
+}
+.franchise-btn {
+  color: var(--main-title-color);
+  background-color: var(--secondary--title-color);
+  margin: 0 auto;
+  height: 44px;
+  border-radius: 22px;
+  width: 161px;
+  border: none;
+}
+.franchise-btn:focus,
+.franchise-btn:hover {
+  background: var(--icons-bg-hover-color);
+}
+@media screen and (min-width: 768px) {
+  .franchise-btn {
+    width: 174px;
+    margin: 0;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .franchise-btn {
+    width: 180px;
+  }
+}
+.btn-icon {
+  margin-left: 8px;
+  fill: var(--secondary--title-color);
+}
+.btn-icons {
+  fill: var(--main-title-color);
+}

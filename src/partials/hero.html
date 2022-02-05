@@ -1,0 +1,126 @@
+<!-- Секция герой -->
+<section id="heroy" class="hero">
+  <div class="container hero__container">
+    <div class="hero-image__thumb">
+      <picture class="hero-image">
+        <source
+          srcset="
+            ./images/mobile/Display-x1/mobi-hero-x1.png 1x,
+            ./images/mobile/Display-x2/mobi-hero-x2.png 2x
+          "
+          media="(max-width: 767px)"
+          type="image/png"
+        />
+        <source
+          srcset="
+            ./images/tablet/display-x1/tablet-hero-x1.png 1x,
+            ./images/tablet/display-2x/tablet-hero-x2.png 2x
+          "
+          media="(max-width: 1199px)"
+          type="image/png"
+        />
+        <source
+          srcset="
+            ./images/desktop/display-x1/desktop-hero-x1.png 1x,
+            ./images/desktop/display-x2/desktop-hero-x2.png 2x
+          "
+          media="(min-width: 1200px)"
+          type="image/png"
+        />
+        <img
+          class="hero-image__item"
+          src="./images/mobile/Display-x1/mobi-hero-x1.png"
+          width="170"
+          alt="мороженое"
+        />
+      </picture>
+    </div>
+    <div class="hero__content">
+      <h1 class="hero__title">
+        ice cream made with
+        <span class="hero__title--accent">passion</span>
+      </h1>
+      <ul class="hero__list list yacor">
+        <li class="hero__item">
+          <a href="#products" class="hero__link hero__link--products link">Products</a>
+        </li>
+
+        <li class="hero__item">
+          <a href="#about" class="hero__link hero__link--made link">How it’s made?</a>
+        </li>
+      </ul>
+    </div>
+    <div class="hero-info">
+      <picture class="hero-info__picture">
+        <source
+          srcset="
+            ./images/tablet/display-x1/tablet-milk-x1.png 1x,
+            ./images/tablet/display-2x/tablet-milk-x2.png 2x
+          "
+          media="(max-width: 1199px)"
+          type="image/png"
+        />
+        <source
+          srcset="
+            ./images/desktop/display-x1/desktop-milk-x1.png 1x,
+            ./images/desktop/display-x2/desktop-milk-x2.png 2x
+          "
+          media="(min-width: 1200px)"
+          type="image/png"
+        />
+        <img
+          class="hero-info__image"
+          src="./images/tablet/display-x1/tablet-milk-x1.png"
+          width="124"
+          height="126"
+          alt="молоко"
+        />
+      </picture>
+      <div class="hero-info__description">
+        <p class="hero-info__text">
+          Ice cream contain at least 15% milk fat, and at least 20% total milk solids.
+        </p>
+        <a href="https://youtu.be/bdRhtMO1yd0" class="hero-info__link" target="_blank">
+          <svg class="hero-info__icon" width="5" height="5">
+            <use href="./images/sprite.svg#icon-arrow-right2  "></use>
+          </svg>
+        </a>
+      </div>
+    </div>
+    <div class="hero-counter">
+      <div class="hero-counter__first">
+        <p class="hero-counter__number hero-counter__number--cafes">16</p>
+        <p class="hero-counter__text hero-counter__text--cafes">cafes</p>
+      </div>
+      <div class="hero-counter__second">
+        <p class="hero-counter__number hero-counter__number--trucks">23</p>
+        <p class="hero-counter__text hero-counter__text--trucks">food trucks</p>
+      </div>
+    </div>
+    <picture class="hero-counter__image">
+      <source
+        srcset="
+          ./images/tablet/display-x1/tablet-girl-x1.png 1x,
+          ./images/tablet/display-2x/tablet-girl-x2.png 2x
+        "
+        media="(max-width: 1199px)"
+        type="image/png"
+      />
+      <source
+        srcset="
+          ./images/desktop/display-x1/desktop-girl-x1.png 1x,
+          ./images/desktop/display-x2/desktop-girl-x2.png 2x
+        "
+        media="(min-width: 1200px)"
+        type="image/png"
+      />
+      <img
+        class="hero-counter__image-item"
+        src="./images/tablet/display-x1/tablet-girl-x1.png"
+        width="168"
+        height="133"
+        alt="девушка"
+      />
+    </picture>
+  </div>
+</section>
